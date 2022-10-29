@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Chap9/Scenes/DodgeScene.unity
-    guid: 66433dd3eff3f554dab30c1ffb115114
+    path: Assets/Chap14/LobbyScene.unity
+    guid: b3fbaeb105d533548ad3cc7a5e8ecab7
+  - enabled: 1
+    path: Assets/Chap14/MyZombileScene.unity
+    guid: 0d5755dc0e3b3cf46b3daca252f711d3
   m_configObjects: {}
