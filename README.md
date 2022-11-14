@@ -1,15 +1,20 @@
 # 3D Mini Proejct List
 
 
-1. 유승호
+### 1. 승호
+
+<br>
+
+#### Avcorad (RPG)
+
+https://github.com/treelun/3DProject/tree/main/Defence
+
 
 
 https://user-images.githubusercontent.com/54798151/201524924-7b47e977-5792-462a-9805-d2523c3d673f.mp4
 
 
-https://github.com/treelun/3DProject/tree/main/Defence
-
-Avcorad (RPG)
+<br>
 
 믹사모에서 애니메이션 및 캐릭터를 가져옴.
 믹사모 애니메이션이 유니티에 딱 맞지않기때문에
@@ -41,11 +46,15 @@ UI제작으로 체력 및 마나, 스테미너 구현
 플레이어는 최대 3번 연속 공격을 가능함
 
 
-2. 태욱
+<br>
+
+### 2. 태욱
+
+<br>
 
 https://github.com/taewook06/3dHorror
 
-3dHorror (공포 서바이벌)
+#### 3dHorror (공포 서바이벌)
 
 맵에 랜덤하게 열쇠를 생성함.
 
@@ -68,11 +77,15 @@ CCTV같은 위치에 PointLight, 등장하는 귀신들에겐 SpotLight들을 �
 몬스터가 플레이어를 쫓아오는건 NavMesh를 사용해서 제작함.
 
 
-3. 재광
+<br>
+
+### 3. 재광
+
+<br>
 
 https://github.com/jk77621/unityclass/tree/main/Assignment04
 
-콘크리트 (자동차 레이싱)
+#### 콘크리트 (자동차 레이싱)
 
 UI버튼으로 차량을 고를 수 있음.
 초기화면에서 돈으로 차량을 구매(언락)할 수 있음.
@@ -103,11 +116,15 @@ TrailRenderer을 사용해서 드레프트를 할때 흔적이 남도록 함.
 카메라를 자동차 진행방향으로 보도록 자연스럽게 회전.
 자동차라 물리 연산때문에 뒤집어 지는 것을 방지하고자 오브젝트를 아래쪽으로 누르는 힘(중력)을 수정함.
 
-4. 준겸
+<br>
+
+### 4. 준겸
+
+<br>
 
 https://github.com/CheonGyeom/Lonely-Shelter
 
-Lonely Shelter (서바이벌 디팬스)
+#### Lonely Shelter (서바이벌 디팬스)
 
 터레인으로 맵 제작
 시간에 흐름에 따라 해(Directional Light)가 회전해서 해가 지는 것을 표현함.
